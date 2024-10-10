@@ -37,7 +37,7 @@
   "dependencies": {
     "apollo-server-express": "2.13.1",
     "apollo-server-testing": "2.13.1",
-    "cookie": "0.4.1",
+    "cookie": "0.7.0",
     "cors": "2.8.5",
     "cookie-parser": "1.4.5",
     "express": "4.17.1",
